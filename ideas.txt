@@ -1,0 +1,68 @@
+# RSS reader app
+
+0. find a name: feedme
+1. fetch & show items from subscription list
+    - [x] find an RSS library for Python
+    - [x] collect some RSS sources
+    - [x] write the code which prints the items
+    - [x] create a simple local server to test the program (serve an XML file
+      with Python simple http server)
+2. implement command prompt
+    - [x] print items one by one
+    - [x] ask for what to do (n: next, d: description, v: view, q: quit)
+3. display selected items
+    - [x] show description
+    - [x] open in browser
+    - [ ] ~~show text~~
+4. show only new items
+    4.1. store last update time
+    4.2. add --since command line option
+5. mark items
+    5.1. store marked items
+    5.2. add --marked option
+    5.3. list marked items
+6. show details
+7. global menu
+8. download articles
+    --download-all
+    --download-marked
+9. learn from usage patterns
+    - build a database from marked & read items for positive match
+    - build a database from items which details has been read but not the
+      article for negative match
+    - add a filtering option
+    - search option (user initiated) for topics
+
+* simple, unix mail like interface
+* shows items with simple menu
+    * next
+    * mark/unmark
+    * details
+    * show
+    * delete after reading if offline item
+* global menu
+    * download marked
+    * download new
+    * list marked
+    * send marked to Instapaper
+* uses $PAGER
+* can work offline
+* does not store much data
+* learn from user & filter items
+    * what gets marked
+    * what is read/sent to IP
+    * which titles are interesting (the user asks for details) and get rejected
+    * later/are read
+* store
+    * marked items - urls in simple text file
+    * offline items - html files in a directory 
+    * items which are sent to IP unsuccessfully - urls in text file
+    * last update time - timestamp in text file
+* subscriptions 
+    * stored as a simple text file
+    * no editing feature in program, use vi
+* command line options
+    * --since=friday
+    * --download-all
+    * --download-marked
+

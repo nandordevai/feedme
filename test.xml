@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 31 Mar 2019 17:20:30 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ukraine comedian 'leads' in presidential election]]></title>
+            <description><![CDATA[Volodymyr Zelenskiy played the president on TV - now exit polls have him winning the the first round.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-47767440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-47767440</guid>
+            <pubDate>Sun, 31 Mar 2019 17:19:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1416C/production/_106248228_053279227-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea says Madrid embassy raid was 'grave terror attack']]></title>
+            <description><![CDATA[Pyongyang calls for an investigation and says it is watching rumours that the FBI played a role.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-47764093</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-47764093</guid>
+            <pubDate>Sun, 31 Mar 2019 08:50:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1105C/production/_106242796_mediaitem106242795.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia 'hacked Amazon boss's phone', says investigator]]></title>
+            <description><![CDATA[An investigator working for Jeff Bezos says Saudi Arabia accessed data on the Amazon boss's phone.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47763179</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47763179</guid>
+            <pubDate>Sun, 31 Mar 2019 08:55:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/181A4/production/_106242789_mediaitem106242788.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Algeria protests: Tycoon Ali Haddad 'arrested at Tunisia border']]></title>
+            <description><![CDATA[Ali Haddad is a long-time backer of embattled President Bouteflika who is facing calls to step down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-47766646</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-47766646</guid>
+            <pubDate>Sun, 31 Mar 2019 16:52:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16DEA/production/_106247639_gettyimages-947832990-594x594.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey local elections: Erdogan fights for nation's confidence]]></title>
+            <description><![CDATA[With Turkey in an economic downturn, local polls are widely seen as a referendum on the president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-47764393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-47764393</guid>
+            <pubDate>Sun, 31 Mar 2019 15:01:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7552/production/_106243003_mediaitem106243002.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zuzana Caputova becomes Slovakia's first female president]]></title>
+            <description><![CDATA[Zuzana Caputova, an anti-graft activist and political newcomer, beats the ruling party candidate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-47756368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-47756368</guid>
+            <pubDate>Sun, 31 Mar 2019 15:17:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3790/production/_106242241_mediaitem106242155.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xenophobic attacks spark South African response]]></title>
+            <description><![CDATA[The foreign minister calls an urgent meeting after three die and 50 are forced to leave their homes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-47765863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-47765863</guid>
+            <pubDate>Sun, 31 Mar 2019 13:11:25 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/8BAA/production/_106245753_hi052653650.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dismay after Trump moves to cut aid to Central America]]></title>
+            <description><![CDATA[The US president wants to cut aid to El Salvador, Guatemala and Honduras in order to stem migration.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47764237</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47764237</guid>
+            <pubDate>Sun, 31 Mar 2019 10:30:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16598/production/_106244519_mediaitem106244518.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza violence: Crossings reopen after negotiated 'calm']]></title>
+            <description><![CDATA[The move comes a day after several Palestinians were killed in clashes with Israeli forces.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-47765054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-47765054</guid>
+            <pubDate>Sun, 31 Mar 2019 10:16:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2480/production/_106244390_mediaitem106244388.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark Zuckerberg asks governments to help control internet content]]></title>
+            <description><![CDATA[Mark Zuckerberg writes an open letter calling for new laws to monitor internet content.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47762091</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47762091</guid>
+            <pubDate>Sat, 30 Mar 2019 22:14:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BB0B/production/_106238874_mediaitem106241215.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil judge overturns ban on Bolsonaro's coup celebration]]></title>
+            <description><![CDATA[A judge says marking the 1964 coup does not amount to rewriting history or hiding the truth.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-47763174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-47763174</guid>
+            <pubDate>Sun, 31 Mar 2019 00:06:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8934/production/_106242153_mediaitem106242148.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IS defeat: British fighters emerge after fall of Baghuz]]></title>
+            <description><![CDATA[The BBC has the first broadcast interview with Hamza Parvez, an ex-police cadet turned extremist fighter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-47764792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-47764792</guid>
+            <pubDate>Sun, 31 Mar 2019 12:48:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/929E/production/_106243573_p075330n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malawi's antibiotics crisis: Why the drugs don't work for some]]></title>
+            <description><![CDATA[In Malawi, doctors say resistance to antibiotics is making their work increasingly difficult.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-47747400</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-47747400</guid>
+            <pubDate>Sun, 31 Mar 2019 00:10:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2AC8/production/_106225901_p074zpp6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth Hour: Switching off lights to save the planet]]></title>
+            <description><![CDATA[Some of the world's most famous landmarks are plunged into darkness to draw attention to climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/world-47763314</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-47763314</guid>
+            <pubDate>Sat, 30 Mar 2019 23:20:55 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11386/production/_106243507_p0752wwl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Mexico border: Migrants held as Trump threatens closure]]></title>
+            <description><![CDATA[Migrants are forced to sleep outside as US officials struggle with a surge in asylum-seekers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47759311</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47759311</guid>
+            <pubDate>Sat, 30 Mar 2019 14:21:01 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D0F5/production/_106239435_p0751l0t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's presidential elections: Five things to know]]></title>
+            <description><![CDATA[A look at some of the odder facts about Sunday's presidential elections in Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-47441345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-47441345</guid>
+            <pubDate>Fri, 29 Mar 2019 00:39:54 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B31C/production/_106225854_p074y0s4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New audio increases pressure on Trudeau in SNC-Lavalin affair]]></title>
+            <description><![CDATA[Former Canadian Justice Minister Jody Wilson-Raybould releases a recording to bolster her version of events.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47756518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47756518</guid>
+            <pubDate>Fri, 29 Mar 2019 23:53:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D901/production/_106235555_p0750c3q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai baby elephants cheered as they escape mud pit]]></title>
+            <description><![CDATA[Six baby elephants who were stuck in steep muddy pit for two days are rescued by Thai park rangers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-47761045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-47761045</guid>
+            <pubDate>Sat, 30 Mar 2019 14:56:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12DED/production/_106239277_p0751kcj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vietnam students invent air cleaning bicycle]]></title>
+            <description><![CDATA[High school students in Vietnam create a bike device that cleans the air for the cyclist.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47754045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47754045</guid>
+            <pubDate>Fri, 29 Mar 2019 17:43:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4A4F/production/_106232091_nguyendung.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico pioneers recycled seaweed shoes]]></title>
+            <description><![CDATA[A Mexican inventor is making recyclable shoes from plastic bottles and seaweed.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47745641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47745641</guid>
+            <pubDate>Fri, 29 Mar 2019 15:35:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/69CA/production/_106228072_sargassum.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kyrgyz debate renaming capital]]></title>
+            <description><![CDATA[Proposal to rename Kyrgyz capital city meets cool reception.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47700161</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-47700161</guid>
+            <pubDate>Tue, 26 Mar 2019 16:35:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/350A/production/_106187531_almutamid.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tornado chasers face storm as lawsuit hits close to home]]></title>
+            <description><![CDATA[A lawsuit claims reckless behaviour by storm chasers before a fatal crash. Is there a wider problem?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-47720417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-47720417</guid>
+            <pubDate>Sun, 31 Mar 2019 00:17:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2B3D/production/_106196011_mediaitem106196010.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US school shootings: Have drills gone too far?]]></title>
+            <description><![CDATA[One school apparently shot teachers "execution style" with pellets as part of a rehearsal for the real thing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-47711020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-47711020</guid>
+            <pubDate>Sun, 31 Mar 2019 00:19:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9790/production/_106200883_gettyimages-74220912.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Village People's cop Victor Willis is rebooting his group]]></title>
+            <description><![CDATA[Victor Willis, the pop group's former singer and songwriter, has overcome legal battles and rehab.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-47733198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-47733198</guid>
+            <pubDate>Sun, 31 Mar 2019 10:16:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15677/production/_106217678_victorwillis-creditvictorwillisworld-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is there an Austrian link to New Zealand mosque attacks?]]></title>
+            <description><![CDATA[The main suspect in the mosque massacre was familiar with Austria's far-right scene.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-47735412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-47735412</guid>
+            <pubDate>Sun, 31 Mar 2019 00:02:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0106/production/_106226200_austriaflagsgetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope Francis visits Morocco]]></title>
+            <description><![CDATA[Highlights of the pontiff's weekend visit to the overwhelmingly Muslim country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-47767224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-47767224</guid>
+            <pubDate>Sun, 31 Mar 2019 15:06:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10080/production/_106246656_053285484-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Bollywood factor in India's election]]></title>
+            <description><![CDATA[A film about Prime Minister Modi is facing criticism for mythologising him ahead of a national vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-47743376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-47743376</guid>
+            <pubDate>Sun, 31 Mar 2019 00:33:08 GMT</pubDate>
+            <media:thumbnail width="651" height="366" url="http://c.files.bbci.co.uk/7924/production/_106221013_mediaitem106221012.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life after a devastating mining disaster]]></title>
+            <description><![CDATA[Brazil's Brumadinho dam disaster is having consequences in towns which are near similar dams.]]></description>
+            <link>https://www.bbc.co.uk/news/business-47735804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-47735804</guid>
+            <pubDate>Sun, 31 Mar 2019 00:29:11 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/AA5D/production/_106231634_ps-geruza_franca.jpg"/>
+        </item>
+    </channel>
+</rss>
